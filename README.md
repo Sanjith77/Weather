@@ -1,7 +1,7 @@
-Weather Mini Project
+# Weather Mini Project
 The purpose of this small project is to display the current weather for a user-specified location.Weather forecasting is the application of science and technology to predict the conditions of the atmosphere for a given location and time.Weather forecasts have a wide range of applications. The fact that weather alerts are used to safeguard people and property makes them crucial. Temperature and precipitation forecasts are crucial.
 
-FEATURES:
+# FEATURES:
 Choose a Weather API Provider:
 
 There are several free and paid weather API providers to choose from, such as OpenWeatherMap, WeatherAPI, and AccuWeather.
@@ -15,7 +15,7 @@ User-Friendly Interface:
 
 Simple and intuitive interface for easy navigation and usage.
 
-TECHNOLOGIES USED:
+# TECHNOLOGIES USED:
 HTML: Markup language for structuring the web page.
 
 CSS: Stylesheet language for styling the web page.
@@ -24,25 +24,12 @@ JavaScript: Programming language for fetching and displaying real-time weather d
 
 Weather API: For this project, we have used the OpenWeatherMap API (https://openweathermap.org/api) to retrieve the current weather data.
 
-# link
- https://github.com/devopsnhc10/Weather_webApp/
- 
- #### netlify link
- 
- https://spweather.netlify.app/
- 
-### Features of the project.
 
-* It provide dynamic weather data like temp, min max temp etc.
-* Dynamic background images change according to weather status.
-* Dynamic weather icon change according to weather status.
-* It provide basic information like feels like temperature,humidity,pressure,wind speed.
-* It will not accept empty input.
-* it will give you  alert if city name not matched with api  data.
-* a good  ux/ui 
+ 
+ # link  https://spweather.netlify.app/
+ 
 
-
-### Snapshot
+# Snapshot
 
 * Default 
 <img src="ss/demo1.png" width="100%">

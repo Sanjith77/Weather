@@ -28,9 +28,6 @@ Weather API: For this project, we have used the OpenWeatherMap API (https://open
    https://devopsnhc10.github.io/Weather/
 
  
- # link  https://spweather.netlify.app/
- 
-
 # Snapshot
 
 * Default 

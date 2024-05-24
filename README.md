@@ -25,7 +25,7 @@ JavaScript: Programming language for fetching and displaying real-time weather d
 Weather API: For this project, we have used the OpenWeatherMap API (https://openweathermap.org/api) to retrieve the current weather data.
 
 ## Web link 
-   https://github.com/devopsnhc10/Weather_webApp/
+   https://devopsnhc10.github.io/Weather/
 
  
  # link  https://spweather.netlify.app/
